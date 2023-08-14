@@ -1,0 +1,126 @@
+=====================================
+Examples and Exercises - GitHub Links
+=====================================
+
+These are to be used as a fallback only in case of issues with the web environments.
+
+-----
+CSS-1
+-----
+
+CSS-1a | Example: Media queries
+https://github.com/qa-exercises/css-example-media-queries
+
+CSS-1b | Exercise: Responsive layout
+https://github.com/qa-exercises/css-exercise-responsive-layout
+(Solution) https://github.com/qa-exercises/css-solution-responsive-layout
+
+----
+JS-1
+----
+
+JS-1a | Exercise: Let vs const
+https://github.com/qa-exercises/js-exercise-let-vs-const
+(Solution) https://github.com/qa-exercises/js-solution-let-vs-const
+
+----
+JS-2
+----
+
+JS-2a | Exercise: Arrow functions
+https://github.com/qa-exercises/js-exercise-arrow-functions
+(Solution) https://github.com/qa-exercises/js-solution-arrow-functions
+
+----
+JS-3
+----
+
+Demo | Array destructuring
+https://github.com/qa-exercises/js-demo-array-destructuring
+
+JS-3a | Example: Array destructuring
+https://github.com/qa-exercises/js-example-array-destructuring
+
+JS-3b | Exercise: Array destructuring
+https://github.com/qa-exercises/js-exercise-array-destructuring
+
+Demo | Object destructuring
+https://github.com/qa-exercises/js-demo-object-destructuring
+
+JS-3c | Example: Object destructuring
+https://github.com/qa-exercises/js-example-object-destructuring
+
+JS-3d | Exercise: Object destructuring
+https://github.com/qa-exercises/js-exercise-object-destructuring
+
+----
+JS-4
+----
+
+JS-4a | Exercise: Ternary operator
+https://github.com/qa-exercises/js-exercise-ternary-operator
+(Solution) https://github.com/qa-exercises/js-solution-ternary-operator
+
+----
+JS-5
+----
+
+JS-5a | Exercise: Callbacks
+https://github.com/qa-exercises/js-exercise-callbacks
+
+Demo | Arrow functions as callbacks
+https://github.com/qa-exercises/js-demo-arrow-functions-as-callbacks
+
+JS-5b | Example: Arrow functions as callbacks
+https://github.com/qa-exercises/js-example-arrow-functions-as-callbacks
+
+----
+JS-6
+----
+
+JS-6a | Exercise: Array filter()
+https://github.com/qa-exercises/js-exercise-array-filter
+(Solution) https://github.com/qa-exercises/js-solution-array-filter
+
+----
+JS-7
+----
+
+JS-7a | Exercise: Array map()
+https://github.com/qa-exercises/js-exercise-array-map
+(Solution) https://github.com/qa-exercises/js-solution-array-map
+
+-------
+React-1
+-------
+
+React-1a | Example: A static page in React
+https://github.com/qa-exercises/react-example-static-page
+
+React-1b | Exercise: Making your own components
+https://github.com/qa-exercises/react-exercise-making-your-own-components
+(Solution) https://github.com/qa-exercises/react-solution-making-your-own-components
+
+React-1c | Exercise: Placing components in separate files
+https://github.com/qa-exercises/react-exercise-placing-components-in-separate-files
+(Solution) https://github.com/qa-exercises/react-solution-placing-components-in-separate-files
+
+React-1d | Example: Embedding JavaScript expressions in JSX
+https://github.com/qa-exercises/react-example-javascript-expressions-in-jsx
+
+-------
+React-2
+-------
+
+Demo | Props are like HTML attributes
+https://github.com/qa-exercises/react-demo-props-are-like-html-attributes
+
+Demo | Passing props to custom components
+https://github.com/qa-exercises/react-demo-passing-props-to-custom-components
+
+React-2a | Exercise: Create a reusable component with props
+https://github.com/qa-exercises/react-exercise-create-a-reusable-component-with-props
+(Solution) https://github.com/qa-exercises/react-solution-create-a-reusable-component-with-props
+
+React-2b | Example: The children prop
+https://github.com/qa-exercises/react-example-children-prop

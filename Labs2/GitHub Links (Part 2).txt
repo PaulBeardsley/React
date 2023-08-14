@@ -1,0 +1,48 @@
+=====================================
+Examples and Exercises - GitHub Links
+=====================================
+
+These are to be used as a fallback only in case of issues with the web environments.
+
+-------
+React-3
+-------
+
+React-3a | Example: Conditional rendering
+https://github.com/qa-exercises/react-example-conditional-rendering
+
+React-3b | Exercise: Conditional rendering
+https://github.com/qa-exercises/react-exercise-conditional-rendering
+(Solution) https://github.com/qa-exercises/react-solution-conditional-rendering
+
+-------
+React-4
+-------
+
+Demo | Rendering lists
+https://github.com/qa-exercises/react-demo-rendering-lists
+
+React-4a | Exercise: Render a list from data
+https://github.com/qa-exercises/react-exercise-render-a-list-from-data
+(Solution) https://github.com/qa-exercises/react-solution-render-a-list-from-data
+
+-------
+React-5
+-------
+
+React-5a | Example: Simple static routing
+https://github.com/qa-exercises/react-example-simple-static-routing
+
+React-5b | Exercise: Use React Router to set up static routing
+https://github.com/qa-exercises/react-exercise-use-react-router-static-routing
+(Solution) https://github.com/qa-exercises/react-solution-use-react-router-static-routing
+
+-------
+React-6
+-------
+
+Demo | CSS Modules
+https://github.com/qa-exercises/demo-css-modules
+
+React-6a | Example: CSS Modules
+https://github.com/qa-exercises/example-css-modules

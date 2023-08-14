@@ -1,0 +1,65 @@
+=====================================
+Examples and Exercises - GitHub Links
+=====================================
+
+These are to be used as a fallback only in case of issues with the web environments.
+
+-------
+React-7
+-------
+
+React-7a | Example: Events in JSX
+https://github.com/qa-exercises/react-example-events-in-jsx
+
+React-7b | Exercise: Event handling
+https://github.com/qa-exercises/react-exercise-event-handling
+(Solution) https://github.com/qa-exercises/react-solution-event-handling
+
+-------
+React-8
+-------
+
+Demo | The need for state
+https://github.com/qa-exercises/react-demo-need-for-state
+
+React-8a | Example: The need for state
+https://github.com/qa-exercises/react-example-need-for-state
+
+React-8b | Example: State solves the problem
+https://github.com/qa-exercises/react-example-state-solves-the-problem
+
+React-8c | Exercise: Powers of two app
+https://github.com/qa-exercises/react-exercise-powers-of-two-app
+(Solution) https://github.com/qa-exercises/react-solution-powers-of-two-app
+
+Demo | Changing state based on previous state
+https://github.com/qa-exercises/react-demo-changing-state-based-on-previous-state
+
+React-8d | Example: Changing state based on previous state
+https://github.com/qa-exercises/react-example-changing-state-based-on-previous-state
+
+-------
+React-9
+-------
+
+React-9a | Exercise: Inverse data flow
+https://github.com/qa-exercises/react-exercise-inverse-data-flow
+(Solution) https://github.com/qa-exercises/react-solution-inverse-data-flow
+
+--------
+React-10
+--------
+
+React-10a | Exercise: useEffect dependency array
+https://github.com/qa-exercises/react-exercise-useeffect-dependency-array
+(Solution) https://github.com/qa-exercises/react-solution-useeffect-dependency-array
+
+--------
+React-11
+--------
+
+Demo | Fetch external data on load
+https://github.com/qa-exercises/react-demo-fetch-external-data-on-load
+
+React-11a | Example: Fetch external data on load
+https://github.com/qa-exercises/react-example-fetch-external-data-on-load

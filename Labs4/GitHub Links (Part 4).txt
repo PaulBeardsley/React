@@ -1,0 +1,22 @@
+=====================================
+Examples and Exercises - GitHub Links
+=====================================
+
+These are to be used as a fallback only in case of issues with the web environments.
+
+--------
+React-12
+--------
+
+Demo | To-do list with Context
+https://github.com/qa-exercises/react-demo-todo-list-with-context
+
+React-12a | Example: Setting up Context
+https://github.com/qa-exercises/react-example-setting-up-context
+
+React-12b | Example: To-do list with Context
+https://github.com/qa-exercises/react-example-context
+
+React-12c | Exercise: Using Context
+https://github.com/qa-exercises/react-exercise-using-context
+(Solution) https://github.com/qa-exercises/react-solution-using-context
